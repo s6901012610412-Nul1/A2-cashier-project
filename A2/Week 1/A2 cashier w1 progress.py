@@ -13,7 +13,6 @@ class Product:
         return f"{self.name} ({self.type}): {self.quantity} pcs x {self.price} Baht"
 
 import os
-
 def storage_sys():
     storage = input('Name for create storage: ')
     full_path = os.path.abspath(f"{storage}.txt")
