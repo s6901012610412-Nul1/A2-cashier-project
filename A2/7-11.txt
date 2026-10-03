@@ -1,3 +1,0 @@
-burger (edible): 50 pcs x 50.0 Baht
-candy (edible): 200 pcs x 5.0 Baht | Pack: 10 pcs. 10.00% discount: 4.50 Baht/pcs
-beer (potable): 50 pcs x 80.0 Baht
